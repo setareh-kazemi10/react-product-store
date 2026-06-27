@@ -32,7 +32,7 @@ A simple React application that fetches products from the Fake Store API and dis
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/setareh-kazemi10/react-product-store
+git clone https://github.com/setareh-kazemi10/react-product-store.git
 ```
 
 ```bash
